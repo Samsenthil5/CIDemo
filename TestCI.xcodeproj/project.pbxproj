@@ -168,7 +168,6 @@
 				TargetAttributes = {
 					4986541A1A6DD99C006558AF = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = 7YY372KJY8;
 					};
 					498654331A6DD99C006558AF = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -358,13 +357,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Official Gates Technologies Pvt Ltd (7YY372KJY8)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Official Gates Technologies Pvt Ltd (7YY372KJY8)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = TestCI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.og.TestCI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6a386d10-0100-475c-b637-712c1cb41562";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
