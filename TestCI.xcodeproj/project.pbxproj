@@ -358,13 +358,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Official Gates Technologies Pvt Ltd (7YY372KJY8)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Official Gates Technologies Pvt Ltd (7YY372KJY8)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Karthik Seenivasan (PJ2LQ2WFDK)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Karthik Seenivasan (PJ2LQ2WFDK)";
 				INFOPLIST_FILE = TestCI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.og.TestCI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "9b8eec92-aa98-4265-843a-0ee0a4568c8b";
+				PROVISIONING_PROFILE = "6a386d10-0100-475c-b637-712c1cb41562";
 			};
 			name = Release;
 		};
